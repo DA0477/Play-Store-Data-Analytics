@@ -16,15 +16,15 @@ A comprehensive data analytics project focused on analyzing Google Play Store da
 ## Screenshots 📸
 
 ### Word Cloud Analysis
-![Word Cloud Analysis](images/wordcloud.png)
+![Word Cloud Analysis](Internship task/images/wordcloud.png)
 *Word cloud showing most common terms in positive reviews for Health & Fitness apps*
 
 ### Global App Distribution
-![Choropleth Map](images/choropleth.png)
+![Choropleth Map](Internship task/images/choropleth.png)
 *Interactive choropleth map showing global app installs distribution*
 
 ### Time Series Analysis
-![Time Series Analysis](images/timeseries.png)
+![Time Series Analysis](Internship task/images/timeseries.png)
 *Monthly installs trend analysis with growth highlights*
 
 ## Technologies Used 🛠
