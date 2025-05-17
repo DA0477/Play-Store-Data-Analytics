@@ -3,6 +3,8 @@
 ## Overview
 A comprehensive data analytics project focused on analyzing Google Play Store data to gain insights into app trends, user preferences, and market dynamics. This project helps understand what makes an app successful in the Play Store ecosystem.
 
+🔗 **Live Demo**: [View Project on Netlify](https://682869f5b83131a34f238bba--inquisitive-muffin-a3b0b9.netlify.app/)
+
 ## Features ✨
 - Generates a word cloud from 5-star reviews for Health & Fitness apps.
 - Displays a choropleth map of global installs for top 5 app categories.
